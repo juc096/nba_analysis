@@ -1,6 +1,6 @@
 # nba_analysis
 Big collab project on player clustering/analysis for NBA scoring.\
-Project README inside folder\
+Project README inside folder
 
 Contributers:\
 https://github.com/IshTheCoder \
